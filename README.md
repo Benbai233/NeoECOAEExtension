@@ -20,6 +20,6 @@ license. For the latest license text, refer to the mapping file itself, or the r
 https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
 
 Additional Resources: 
-==========
+==========1
 Community Documentation: https://docs.neoforged.net/  
 NeoForged Discord: https://discord.neoforged.net/
